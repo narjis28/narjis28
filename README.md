@@ -1,5 +1,5 @@
 - Hi, I’m @narjis28
-- 👀 I’m interested in being a web developper
+- 👀 I’m interested in being a software engineer
 - 🌱 I’m currently learning on how to code and websites.
 
 <!---
